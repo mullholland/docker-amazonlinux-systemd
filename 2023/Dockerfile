@@ -1,7 +1,7 @@
 FROM amazonlinux:2023
 
 LABEL maintainer="mullholland"
-LABEL build_date="2023-11-25"
+LABEL build_date="2026-04-05"
 
 ENV container=docker
 
