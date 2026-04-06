@@ -29,6 +29,8 @@ RUN dnf makecache \
       iproute \
       util-linux \
       python-simplejson \
+      python3 \
+      python3-pip \
  && dnf clean all
 
 # Disable requiretty.

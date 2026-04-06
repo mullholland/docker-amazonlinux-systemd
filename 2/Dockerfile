@@ -27,6 +27,8 @@ RUN yum -y update \
       procps-ng \
       ca-certificates \
       iproute \
+      python3 \
+      python3-pip \
  && yum clean all
 
 # Disable requiretty.
