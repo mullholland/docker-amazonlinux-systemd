@@ -18,10 +18,6 @@ jobs:
     strategy:
       matrix:
         include:
-          - context: 2
-            tags: |
-              ${{ github.repository }}:2
-              ghcr.io/${{ github.repository }}:2
           - context: 2023
             tags: |
               ${{ github.repository }}:2023

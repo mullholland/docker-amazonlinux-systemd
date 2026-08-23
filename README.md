@@ -10,7 +10,6 @@ This repository has multiple tags that relate to Almalinux versions.
 
 |Amazon Linux Version|Docker image tag   |
 |--------------------|-------------------|
-|2                   |2                  |
 |2023 (latest)       |2023, latest       |
 
 Manually starting
